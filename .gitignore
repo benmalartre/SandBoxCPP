@@ -58,5 +58,5 @@
 windows
 *.sln
 *.vcxproj*
-*/Debug*
-*/Release*
+*/x64*
+*.vs
